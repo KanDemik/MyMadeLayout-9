@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Audiowide';
+    src: url(Audiowide-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'DM Mono';
+    src: url(DMMono-Regular.woff);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(Inter-Regular.otf);
+    font-weight: 400;
+}
